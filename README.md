@@ -117,5 +117,7 @@ Potential directions for further development include:
 ## Citation
 
 If you use this implementation in your research, please cite the associated paper or repository. 
-##[LinkedIn](https://www.linkedin.com/in/aniekanafangideh/) 
-##[X](https://x.com/aniekan_Q)
+
+[LinkedIn](https://www.linkedin.com/in/aniekanafangideh/) 
+
+[X](https://x.com/aniekan_Q)
